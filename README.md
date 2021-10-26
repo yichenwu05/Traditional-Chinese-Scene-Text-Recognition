@@ -21,6 +21,16 @@ Python      | 3.6.9                                     |
 
 
 ## `Demo`
+
+Download pretrained models from google drive and unzip.
+
+```
+$ cd ./model/weight/
+$ gdown https://drive.google.com/uc?id=1iFjqJM-ZDEOurIezPpcG7TN9B5RnKrdL
+$ unzip weight.zip
+$ cd ../..
+```
+
 You can put your own cropped image in `./dataset/demo_imgs/` and checkout `Demo.ipynb`.
 
 
@@ -32,15 +42,6 @@ Download `Private_Dataset.zip` ( already decrypt ) from google drive and unzip.
 $ cd ./dataset/private_data/
 $ gdown https://drive.google.com/uc?id=1pJNbKPkICeMUrvq8IcihVgZe5JgHXUC1
 $ unzip PD.zip 
-$ cd ../..
-```
-
-Download pretrained models from google drive and unzip.
-
-```
-$ cd ./model/weight/
-$ gdown https://drive.google.com/uc?id=1iFjqJM-ZDEOurIezPpcG7TN9B5RnKrdL
-$ unzip weight.zip
 $ cd ../..
 ```
 
