@@ -2,13 +2,13 @@
 
 [AI CUP Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/16)
 
-Team Info |               |
---------------------|--------------------|
-Team Name           | GPU不夠了           |
-Team Member         | 吳亦振 (Wu, Yi-Chen)|
-Public Score        | 0.876377            |
-Private Score       | 0.868158            |
-Private Leaderboard | 6th/183             | 
+Team Info           |                               |
+--------------------|-------------------------------|
+Team Name           | GPU不夠了                      |
+Team Member         | 吳亦振 (Wu, Yi-Chen)           |
+Public Score        | 0.876377                      |
+Private Score       | 0.868158                      |
+Private Leaderboard | 6th/183 ( Top 4% )             | 
 
 
 ## `Environment`
