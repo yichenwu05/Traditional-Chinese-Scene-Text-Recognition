@@ -113,8 +113,8 @@ $ python train_rec_null.py rec resnet50
 
 | Name                | Key            | Description                             | Sample Value  |
 | ------------------- | ---------------|---------------------------------------- | ------------- |
-|./configs/device.conf| TrainDevice    | Device to train (0, 1, 2, cpu, ..)      | 0             |
-|./configs/device.conf| InferenceDevice| Device to inference (0, 1, 2, cpu, ..)  | 0             |
+|./configs/device.conf| TrainDevice    | Device for train (0, 1, 2, cpu, ..)      | 0             |
+|./configs/device.conf| InferenceDevice| Device for inference (0, 1, 2, cpu, ..)  | 0             |
 
 
 
