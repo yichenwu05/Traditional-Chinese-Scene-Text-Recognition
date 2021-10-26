@@ -60,7 +60,7 @@ $ python ./inference/step3_char_cls.py private
 $ python ./inference/step4_nlp_thres.py private
 ```
 
-The output will save to `./output/` folder
+The output( csv file ) will save in `./output/` folder
 
 ## `Train(Optional)`
 
