@@ -147,6 +147,10 @@ def Demo(filename, show_size=(8, 8)):
                     else:
                         res += j['candidates'][0]
                         valid_det.append(det[i])
+
+    res = res.replace('#', '')
+    res = res if res else '###'
+
     for file in os.listdir('/tmp/'):
         if 'jpg' not in file:
             continue
