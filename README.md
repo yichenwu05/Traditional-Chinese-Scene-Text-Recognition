@@ -1,5 +1,12 @@
 ## **繁體中文場景文字辨識競賽－進階賽：繁體中文場景文字辨識**
 
+<div align="center">
+    <img src="doc/flow.png" width="800">
+</div>
+
+
+## `Introduction`
+
 [AI CUP Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/16)
 
 Team Info           |                               |
